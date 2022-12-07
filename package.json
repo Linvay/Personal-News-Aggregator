@@ -1,0 +1,23 @@
+{
+  "name": "personal-news-aggregator",
+  "version": "1.0.0",
+  "description": "A web app that allows users to subscribe to website RSS feed and keep up with their latest news",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Linvay/Personal-News-Aggregator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Linvay/Personal-News-Aggregator/issues"
+  },
+  "homepage": "https://github.com/Linvay/Personal-News-Aggregator#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
